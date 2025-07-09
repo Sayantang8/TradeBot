@@ -1,0 +1,11 @@
+# Core dependencies
+python-binance==1.0.19
+python-dotenv==1.0.0
+argparse
+
+# Optional dependencies for development
+pytest>=7.0.0
+pytest-mock>=3.10.0
+requests>=2.28.0
+
+# Note: logging is part of the Python standard library
