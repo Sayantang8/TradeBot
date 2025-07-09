@@ -275,3 +275,6 @@ The bot maintains detailed logs in `bot.log` for debugging:
    - Shows detailed error traces
 
 For detailed troubleshooting steps and solutions to common issues, refer to the `API_TROUBLESHOOTING.md` guide.
+
+### LICENSE
+  - This project is licensed under the MIT License. For more details, please see the `LICENSE` file included in this repository.
